@@ -1,0 +1,45 @@
+body{color: white;
+  font-size: 40px;}
+.headerdiv{
+  padding-top: 10px 10px 10px 10px;
+  display: flex;
+  height: 80px;
+  width: 100vw;
+}
+.logo{
+    height: 100%;
+    width: 30px;
+    cursor: pointer;
+    margin-right: 800px;
+    font-size: 45px;
+    margin: 10px 850px 10px 10px;
+}
+.NavDeLosContactos{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 230px;
+  cursor: pointer;
+  
+}
+
+.divBotonDeturno{
+  color: white;
+  display: flex;
+    position: sticky;
+    height: auto;
+    width: 200px;
+    background-color: #3fb1eb;
+    align-items: center;
+    justify-content: center;
+    border-radius: 15px;
+    left: 100%;
+    font-size: 14px;
+    margin: 20px;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.link{
+  font-size: 10px;
+}
